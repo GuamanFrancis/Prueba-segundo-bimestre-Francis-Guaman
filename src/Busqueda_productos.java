@@ -37,8 +37,8 @@ public class Busqueda_productos extends JFrame{
     }
     public void ingresar(){
         setVisible(true);
+        setSize(300,400);
         setLocationRelativeTo(null);
-        setSize(500,600);
         setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
 
     }

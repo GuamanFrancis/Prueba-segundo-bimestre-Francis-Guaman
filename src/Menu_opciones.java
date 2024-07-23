@@ -33,8 +33,8 @@ public class Menu_opciones extends JFrame{
     }
     public void ingresar(){
         setVisible(true);
+        setSize(400,500);
         setLocationRelativeTo(null);
-        setSize(500,600);
         setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
 
     }

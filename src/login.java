@@ -32,8 +32,8 @@ public class login extends JFrame{
     }
     public void ingresar(){
         setVisible(true);
+        setSize(300,300);
         setLocationRelativeTo(null);
-        setSize(500,600);
         setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
 
     }

@@ -57,7 +57,7 @@
           <grid row="2" column="0" row-span="1" col-span="2" vsize-policy="0" hsize-policy="0" anchor="0" fill="0" indent="0" use-parent-layout="false"/>
         </constraints>
         <properties>
-          <text value="Ingrese las siguientes cotegorias para ingresar los productos"/>
+          <text value="Ingrese las siguientes categorias para ingresar los productos"/>
         </properties>
       </component>
       <component id="52b93" class="javax.swing.JLabel">
@@ -65,7 +65,7 @@
           <grid row="3" column="0" row-span="1" col-span="1" vsize-policy="0" hsize-policy="0" anchor="8" fill="0" indent="0" use-parent-layout="false"/>
         </constraints>
         <properties>
-          <text value="Ingrese el codigo del prodcuto"/>
+          <text value="Ingrese el codigo del producto"/>
         </properties>
       </component>
       <component id="3acfa" class="javax.swing.JTextField" binding="codigo">
@@ -89,7 +89,7 @@
           <grid row="4" column="0" row-span="1" col-span="1" vsize-policy="0" hsize-policy="0" anchor="8" fill="0" indent="0" use-parent-layout="false"/>
         </constraints>
         <properties>
-          <text value="Ingrese el nombre dl producto"/>
+          <text value="Ingrese el nombre del producto"/>
         </properties>
       </component>
       <component id="9374a" class="javax.swing.JLabel">
